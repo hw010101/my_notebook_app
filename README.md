@@ -13,6 +13,11 @@ My Notebook App is a simple notebook application where you can take and organize
 
 ## Installation
 
+Clone the repository:
+
+```
+git clone https://github.com/hw010101/my_notebook_app.git
+```
 You can install My Notebook App using the following command:
 
 ```bash
