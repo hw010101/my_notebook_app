@@ -16,6 +16,7 @@ My Notebook App is a simple notebook application where you can take and organize
 You can install My Notebook App using the following command:
 
 ```bash
+cd my_notebook_app  
 pip install my-notebook-app
 ```
 
