@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
-        # Gerekli bağımlılıkları buraya ekleyin
+        'yavuz_unique==0.1.0', # Gerekli bağımlılıkları buraya ekleyin
     ],
     entry_points={
         'console_scripts': [
