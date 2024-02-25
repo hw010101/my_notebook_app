@@ -1,0 +1,3 @@
+[console_scripts]
+my-notebook-app = my_notebook_app.main:main
+
