@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='my_notebook_app',
-    version='0.1.2',
+    version='0.1.3',
     packages=find_packages(),
     install_requires=[
         'yavuz_unique==0.1.6',  # Gerekli bağımlılıkları buraya ekleyin
@@ -15,7 +15,7 @@ setup(
     author='lilzey',
     author_email='lilzey0101@gmail.com',
     description='notebook',
-    url='https://github.com/hw010101/my_notebook_app',
+    bugtrack_url='https://github.com/hw010101/my_notebook_app',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     classifiers=[
