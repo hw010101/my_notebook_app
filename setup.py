@@ -16,6 +16,8 @@ setup(
     author_email='lilzey0101@gmail.com',
     description='notebook',
     url='https://github.com/hw010101/my_notebook_app',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
