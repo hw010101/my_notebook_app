@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='my_notebook_app',
-    version='0.1.1',
+    version='0.1.2',
     packages=find_packages(),
     install_requires=[
         'yavuz_unique==0.1.6',  # Gerekli bağımlılıkları buraya ekleyin
