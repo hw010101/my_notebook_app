@@ -1,1 +1,1 @@
-yavuz-unique==0.1.0
+yavuz-unique==0.1.6

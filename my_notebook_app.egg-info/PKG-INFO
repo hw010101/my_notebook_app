@@ -1,10 +1,15 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.2
 Name: my-notebook-app
-Version: 0.1.0
-Summary: UNKNOWN
-Home-page: UNKNOWN
-Author: UNKNOWN
-Author-email: UNKNOWN
+Version: 0.1.1
+Summary: notebook
+Home-page: https://github.com/hw010101/my_notebook_app
+Author: lilzey
+Author-email: lilzey0101@gmail.com
 License: UNKNOWN
+Project-URL: Source, https://github.com/hw010101/my_notebook_app
 Description: UNKNOWN
 Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
