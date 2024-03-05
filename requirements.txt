@@ -1,1 +1,7 @@
-yavuz-unique==0.1.6
+yavuz-unique==0.1.7
+cann_calculator==1.0.0
+my-notebook-app==0.1.4
+lilzey==0.1.0
+zenith-tea==0.1.0
+zoraapexx==0.1.0
+   
