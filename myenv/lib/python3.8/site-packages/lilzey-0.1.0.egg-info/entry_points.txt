@@ -1,0 +1,3 @@
+[console_scripts]
+lilzey-word-game = lilzey.scripts.lilzey_game_script:main
+

@@ -1,0 +1,3 @@
+lilzey==0.1.0
+lilzey_generator==0.1.0
+zoraapexx==0.1.0

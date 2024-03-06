@@ -1,0 +1,3 @@
+[console_scripts]
+cann-calculator = cann_calculator.main:run
+

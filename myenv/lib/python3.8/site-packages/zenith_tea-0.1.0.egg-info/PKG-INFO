@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: zenith-tea
+Version: 0.1.0
+Summary: A number guessing game with a twist
+Home-page: UNKNOWN
+Author: zenith
+Author-email: zenithnexuss@gmail.com
+License: UNKNOWN
+Project-URL: Source, https://github.com/zenithnexus/zenith_tea
+Description: # Zenith Tea
+        
+        Zenith Tea is a number guessing game that brings joy and challenge together. This project focuses on creating a fun and interactive game where players can test their guessing skills.
+        
+        ## Installation
+        
+        To install Zenith Tea on your local machine, follow these steps:
+        
+        1. Clone the repository:
+        
+            ```bash
+            git clone https://github.com/<your-username>/zenith_tea.git
+            ```
+        
+        2. Navigate to the project directory:
+        
+            ```bash
+            cd zenith_tea
+            ```
+        
+        3. Install the required dependencies:
+        
+            ```bash
+            pip install -r requirements.txt
+            ```
+        
+        ## Usage
+        
+        The game can be run with the following command:
+        
+        ```bash
+        python3 main.py
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown

@@ -1,0 +1,3 @@
+[console_scripts]
+zoraapexx = zoraapexx_game_script:run_game
+

@@ -1,0 +1,3 @@
+[console_scripts]
+lilzey-generator = lilzey_generator.main:main
+

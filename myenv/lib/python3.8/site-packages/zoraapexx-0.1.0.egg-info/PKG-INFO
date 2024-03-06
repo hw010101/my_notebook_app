@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: zoraapexx
+Version: 0.1.0
+Summary: ZORA
+Home-page: UNKNOWN
+Author: zoraapexx
+Author-email: zoraapexx@gmail.com
+License: UNKNOWN
+Project-URL: Source, https://github.com/zoraapexx/zoraapexx
+Description: # Zoraapexx Word Guess Game
+        
+        Welcome to Zoraapexx, a word guessing game where you can have fun guessing words!
+        
+        ## Installation
+        
+        Make sure you have Python 3.x installed. You can download it [here](https://www.python.org/downloads/).
+        
+        ```bash
+        git clone https://github.com/your-username/zoraapexx.git
+        cd zoraapexx
+        pip install -r requirements.txt
+        
+        
+        Run the game using the following command:
+        
+        ```bash
+        python main.py
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown

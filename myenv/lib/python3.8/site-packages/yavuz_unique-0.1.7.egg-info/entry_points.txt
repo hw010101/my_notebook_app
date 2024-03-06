@@ -1,0 +1,3 @@
+[console_scripts]
+yavuz-word-game = yavuz_unique.scripts.yavuz_game_script:main
+

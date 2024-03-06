@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: lilzey-generator
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: lilzey
+Author-email: lilzey0101@gmail.com
+License: UNKNOWN
+Project-URL: Source, https://github.com/hw010101/lilzey_generator
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+Requires-Dist: cann-calculator (==1.0.0)
+
+
+This simple tool helps you generate random passwords.
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/hw010101/lilzey_generator.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd lilzey_generator
+    ```
+
+3. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+You can run the program with the following command:
+
+```bash
+python3 generator.py
+
+
+

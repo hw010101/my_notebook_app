@@ -1,0 +1,3 @@
+[console_scripts]
+zenith-tea = zenith_tea.main:main
+

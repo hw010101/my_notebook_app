@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='my_notebook_app',
-    version='0.1.4',
+    version='0.1.5',
     packages=find_packages(),
     install_requires=[
         'yavuz-unique==0.1.7',
@@ -10,6 +10,9 @@ setup(
         'lilzey==0.1.1',
         'zenith-tea==0.1.0',
         'zoraapexx==0.1.0',
+        'requests==2.26.0',
+        'cann_calculator==1.0.0',
+        'flask==2.1.1',
      ],
     entry_points={
         'console_scripts': [

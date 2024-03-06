@@ -4,4 +4,5 @@ my-notebook-app==0.1.4
 lilzey==0.1.0
 zenith-tea==0.1.0
 zoraapexx==0.1.0
-   
+requests==2.26.0
+flask==2.1.1   
